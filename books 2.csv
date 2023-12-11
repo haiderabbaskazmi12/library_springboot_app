@@ -1,0 +1,112 @@
+book_uuid,title,author,genre,publisher
+e13d8493-fb82-4b8d-bf35-d305f44a45e6,"Age of Discontuinity, The","Drucker, Peter",economics,Random House
+4f71a90b-41d2-40a0-9f87-0aa5a116e307,"Age of Wrath, The","Eraly, Abraham",history,Penguin
+75c15164-1255-4e92-ae6c-3d121e9c91d3,Aghal Paghal,"Deshpande, P L",nonfiction,Mauj
+7f4904ae-01a9-4b7f-b9e5-3c7ac1d3bc5d,Ahe Manohar Tari,"Deshpande, Sunita",nonfiction,Mauj
+9b209f5d-dafe-4a2a-af7d-570eb69455cd,All the President's Men,"Woodward, Bob",history,Random House
+50f8a5f2-9d10-43c1-9b14-4005a1be9ef8,"Amulet of Samarkand, The","Stroud, Jonathan",fiction,Random House
+4a8c73a1-d872-4fcf-8ff8-31b48fda77c0,"Analysis, Vol I","Tao, Terence",mathematics,HBA
+d1528d88-c826-40e3-9a38-8f4a30804f1a,Angels & Demons,"Brown, Dan",fiction,Random House
+4ad44b21-7027-4d24-84e6-1b442b6b14a1,"Argumentative Indian, The","Sen, Amartya",nonfiction,Picador
+8c13e2a0-0f6a-43ea-9d1b-1eeb4d95d7f9,"Artist and the Mathematician, The","Aczel, Amir",science,HighStakes
+30c96db7-19c5-4f72-9ba1-4d26da1724e2,Asami Asami,"Deshpande, P L",fiction,Mauj
+1a0310c1-d52d-45e4-b450-dae1d43f9a93,Ashenden of The British Agent,"Maugham, William S",fiction,Vintage
+61a53d25-e660-4c0c-b6db-6e16e8da8cf3,"Beautiful and the Damned, The","Deb, Siddhartha",nonfiction,Penguin
+6b11bceb-226e-41fe-9819-aa35cc13021c,Beyond the Three Seas,"Dalrymple, William",history,Random House
+84a5b036-2c88-45b7-bda3-882f6187e3bb,Birth of a Theorem,"Villani, Cedric",mathematics,Bodley Head
+bb37332e-0467-4a0d-8c9b-4e0e8c7e34d9,Bookless in Baghdad,"Tharoor, Shashi",nonfiction,Penguin
+fb997fe7-e41c-4c17-bc9d-8e3e2f08c9a3,"Brethren, The","Grisham, John",fiction,Random House
+e2ed4e11-6daa-4261-ae5e-0c897c7d981d,Burning Bright,"Steinbeck, John",fiction,Penguin
+f793c79a-9569-4c18-85e5-0f1283a3fc96,Catch 22,"Heller, Joseph",fiction,Random House
+f82a9d2b-d723-4ef8-87e1-1d0de8b116ec,"City of Joy, The","Lapierre, Dominique",fiction,vikas
+e0f6191e-553a-45c1-bf44-7d6477b0475d,Clash of Civilizations and Remaking of the World Order,"Huntington, Samuel",history,Simon&Schuster
+3a44679b-2971-4b49-af35-15cd1ad2d47d,"Complete Mastermind, The",BBC,nonfiction,BBC
+c2aae781-1f4e-4e7e-a049-15878165d47b,"Complete Sherlock Holmes, The - Vol I","Doyle, Arthur Conan",fiction,Random House
+b8f45832-69dd-4044-88b0-049d018de994,"Complete Sherlock Holmes, The - Vol II","Doyle, Arthur Conan",fiction,Random House
+cb8f4c6b-1c57-4a05-bf6b-49079832f696,"Computer Vision, A Modern Approach","Forsyth, David",data_science,Pearson
+c4a6a3d7-c6f8-4949-9eaf-0d9b9f095fcf,Crime and Punishment,"Dostoevsky, Fyodor",fiction,Penguin
+d21a1ba3-64ec-4854-bc10-5db0b61169bf,Data Mining Handbook,"Nisbet, Robert",data_science,Apress
+59b89632-c148-4a9c-a775-3d799cf9e9b2,Data Scientists at Work,Sebastian Gutierrez,data_science,Apress
+9d0b1e7a-76f4-4d85-bdd7-1a348f02d1c5,Data Smart,"Foreman, John",data_science,Wiley
+f527e620-3b91-481d-9f39-71d66729a575,Data Structures Using C & C++,"Tanenbaum, Andrew",computer_science,Prentice Hall
+6d606ab4-2f02-4f27-b744-ff508c66a702,Doctor in the Nude,"Gordon, Richard",fiction,Penguin
+1f5f4c3e-1305-4d3b-88d1-605f2f637dfb,Down and Out in Paris & London,"Orwell, George",nonfiction,Penguin
+5d398f4a-346b-4d03-91c8-86e18c12bfff,"Drunkard's Walk, The","Mlodinow, Leonard",science,Penguin
+c2a98a17-13c1-4b1f-af2e-54093d557446,Dylan on Dylan,"Dylan, Bob",nonfiction,Random House
+72f1e3f7-554f-45e8-bd5a-74a8b8449636,Econometric Analysis,"Greene, W. H.",economics,Pearson
+df9d8c9f-9c3c-4f9f-8ba6-bf0661a6474a,Electric Universe,"Bodanis, David",science,Penguin
+5361687d-13a4-4522-b65d-18d509f3e6ae,False Impressions,"Archer, Jeffery",fiction,Pan
+e5f5da13-2221-46a5-902f-c5b1c4e1d78b,"Farewell to Arms, A","Hemingway, Ernest",fiction,Rupa
+9390016c-8d48-4b36-84c7-d902132ca5b1,Freakonomics,"Dubner, Stephen",economics,Penguin
+1c32ce77-eab2-4d8c-bdce-6e90da17b522,Free Will,"Harris, Sam",philosophy,FreePress
+7eef218c-0fb4-4a29-b226-051fb0d6d300,Freedom at Midnight,"Lapierre, Dominique",history,vikas
+3a2e32a1-3d52-4d8e-8d88-9fb9ea8cfc1c,Fundamentals of Wavelets,"Goswami, Jaideva",signal_processing,Wiley
+ad41080e-2bae-4212-bfe0-5b9c057f558f,God Created the Integers,"Hawking, Stephen",mathematics,Penguin
+74d267d7-2e8e-4707-9d43-75d115f78fc3,"Great Indian Novel, The","Tharoor, Shashi",fiction,Penguin
+66ecaa4d-25a1-4cb3-a4c4-01b381df8694,"Great War for Civilization, The","Fisk, Robert",history,HarperCollins
+5a43fe5c-f9e2-480e-93c2-8b22e09a1974,Gun Gayin Awadi,"Deshpande, P L",nonfiction,Mauj
+d41d3c8a-05e1-4c78-938d-5973983e6c65,"Hidden Connections, The","Capra, Fritjof",science,HarperCollins
+26d4e02b-af88-4905-8541-ae5fc2920124,History of Western Philosophy,"Russell, Bertrand",philosophy,Routledge
+5a430693-e9bb-4f98-951d-1f731b2c097a,How to Think Like Sherlock Holmes,"Konnikova, Maria",psychology,Penguin
+c186fb35-cf67-4a48-aa49-bd5be3ed07f8,"Hunchback of Notre Dame, The","Hugo, Victor",fiction,Random House
+fc439856-85ef-4c8a-8b5d-87a35a28ad91,"Idea of Justice, The","Sen, Amartya",nonfiction,Penguin
+a60f6a64-cf3d-4f34-8365-4f2e1b4222ad,Identity & Violence,"Sen, Amartya",philosophy,Penguin
+b5e61de9-2ac1-4bbd-bc8d-cb48a49a8609,Image Processing & Mathematical Morphology,"Shih, Frank",signal_processing,CRC
+6d60f7b1-6a7d-4d3d-bc57-04e6a38a19f1,In a Free State,"Naipaul, V. S.",fiction,Rupa
+a0511f4b-8422-4655-a3b4-ebc201e2abdb,India from Midnight to Milennium,"Tharoor, Shashi",history,Penguin
+4d6d2fc1-ee55-4bd1-9ec7-d0bd6f31f7bf,Integration of the Indian States,"Menon, V P",history,Orient Blackswan
+9ffed42c-c08d-41a1-a370-d28c2336ad4a,Introduction to Algorithms,"Cormen, Thomas",computer_science,MIT Press
+91d9cd2a-2f16-404c-8703-35b7fe9a7d66,Journal of a Novel,"Steinbeck, John",fiction,Penguin
+c97f2b7a-19d5-4420-a3dd-22b464fadef8,Jurassic Park,"Crichton, Michael",fiction,Random House
+7c8f5a37-ebcc-46a7-a0ea-1b0a05da2d69,"Last Lecture, The","Pausch, Randy",nonfiction,Hyperion
+839ace3c-0d54-46b8-9e4a-115133682a02,"Last Mughal, The","Dalrymple, William",history,Penguin
+54a2df07-10d1-4d12-a37d-6c09765a9f42,Learning OpenCV,"Bradsky, Gary",data_science,O'Reilly
+5c531db5-cbf2-45c3-a5b7-2a5e611f1f0f,Let Us C,"Kanetkar, Yashwant",computer_science,Prentice Hall
+cd06460d-f2ea-46cc-8687-565cd0eeb8c0,Machine Learning for Hackers,"Conway, Drew",data_science,O'Reilly
+a2a0f759-c41a-4ef4-83e3-1b160dd6ff45,Making Software,"Oram, Andy",computer_science,O'Reilly
+f699f0f8-d89a-4e11-8fbb-e0799c5e06e6,Manasa,"Kale, V P",nonfiction,Mauj
+09ac3c5c-06fc-4c84-8c2f-ff83e4bb4b9b,Maqta-e-Ghalib,"Garg, Sanjay",fiction,Mauj
+8910a68a-2f6f-4b8e-a233-882e1e4f2a14,"Maugham's Collected Short Stories, Vol 3","Maugham, William S",fiction,Vintage
+6a95e50e-8af5-4772-9346-7f38981db0cc,"Moon is Down, The","Steinbeck, John",fiction,Penguin
+9ebd7f29-0c59-4b84-858d-9c53dbce7be4,"Nature of Statistical Learning Theory, The","Vapnik, Vladimir",data_science,Springer
+1f3b439d-b1fc-4e46-87df-6d0d5f58a256,"New Machiavelli, The","Wells, H. G.",fiction,Penguin
+2cf5d23a-225d-42c8-97b7-747d12ab9c2a,New Markets & Other Essays,"Drucker, Peter",economics,Penguin
+1db611b0-6f49-4e65-9c6c-6b9ce29e13b2,O Jerusalem!,"Lapierre, Dominique",history,vikas
+a2ed8a7d-b536-4cf3-897c-1a38b3c8f6b8,On Education,"Russell, Bertrand",philosophy,Routledge
+2b708e9b-3a5b-4e67-974c-4d04092b5d6e,Once There Was a War,"Steinbeck, John",nonfiction,Penguin
+c786a6bb-2c9a-45a1-b92b-5ba8d0ec15e3,One,"Bach, Richard",nonfiction,Dell
+4d205896-872d-41c4-ae11-6b8e3ef6d0a1,Orientalism,"Said, Edward",history,Penguin
+be8c3f2d-7de5-49db-a351-19429271ff15,"Outsider, The","Camus, Albert",fiction,Penguin
+285ce4c1-b6ce-4c6a-8f2d-6ad57a4c84b4,Physics & Philosophy,"Heisenberg, Werner",science,Penguin
+2c1a0ea1-9771-4b97-8bc3-2f1f8d9a7240,"Pillars of the Earth, The","Follett, Ken",fiction,Random House
+6d72b7a7-2dbd-4eb9-9f2a-477d0fe98729,Principles of Communication Systems,"Taub, Schilling",computer_science,TMH
+d9e541cc-5a4a-4dd2-8a4e-606ec3a49c38,"Prisoner of Birth, A","Archer, Jeffery",fiction,Pan
+66e4b3e3-5084-4d4d-bf3e-d8c69c8a2c6e,Python for Data Analysis,"McKinney, Wes",data_science,O'Reilly
+e00373d3-f544-4a9d-8ff5-3870d6e7a20a,Radiowaril Bhashane & Shrutika,"Deshpande, P L",nonfiction,Mauj
+fe9f77fc-b2b4-41cd-a9e1-1fc3a2f876f2,"Raisin in the Sun, A","Hansberry, Lorraine",fiction,Penguin
+3678cb0e-bd4a-4d57-8e45-4efbf75de5ad,Rationality & Freedom,"Sen, Amartya",economics,Springer
+3d67a570-7cb8-4e47-8d23-e7e2d29a5e19,Return of the Primitive,"Rand, Ayn",philosophy,Penguin
+3693ed25-7bc1-4f3f-871e-eb2b1e9cf60a,"Russian Journal, A","Steinbeck, John",nonfiction,Penguin
+b5df760e-cd13-4e4b-8f8c-1c8b036a1b4a,Scoop!,"Nayar, Kuldip",history,HarperCollins
+a4fc3c48-926f-4b34-9f05-963dd5531a37,Sea of Poppies,"Ghosh, Amitav",fiction,Penguin
+ea251f9a-2e23-4b92-b4b4-17cde423ee66,"Signal and the Noise, The","Silver, Nate",data_science,Penguin
+1eae5152-8b5b-4e5c-8f62-2bdf4e5e35a9,Slaughterhouse Five,"Vonnegut, Kurt",fiction,Random House
+ed7f8c4e-89d3-4f88-9b21-45a4a25a1124,"Social Choice & Welfare, Vol 39 No. 1",Various,economics,Springer
+a6ea6b82-89a0-4da1-bf46-1c61743eb2d8,Soft Computing & Intelligent Systems,"Gupta, Madan",data_science,Elsevier
+a02a2f37-d0a8-4843-8b90-e6b80f7d038e,Statistical Decision Theory',"Pratt, John",data_science,MIT Press
+682ad79a-609f-4b16-890f-50d67028c500,"Story of Philosophy, The","Durant, Will",philosophy,Pocket
+53f0c768-81fc-477b-92e5-0d0f125b82d7,Structure & Interpretation of Computer Programs,"Sussman, Gerald",computer_science,MIT Press
+1b2c1a45-564c-4a6f-bdd5-4db162ad70f3,Superfreakonomics,"Dubner, Stephen",economics,HarperCollins
+5a6fe9d7-5e48-45eb-84e1-3b2189c7c15a,Surely You're Joking Mr Feynman,"Feynman, Richard",science,Random House
+d3ac4d85-67b2-48bb-a1a8-6a1f38f6d9a3,Tales of Mystery and Imagination,"Poe, Edgar Allen",fiction,HarperCollins
+45e2e102-83c3-4059-8e2b-31c25fba4d1d,"Tao of Physics, The","Capra, Fritjof",science,Penguin
+f6e9a1f7-35e9-452e-918a-eb97e4e7a0e9,Textbook of Economic Theory,"Stonier, Alfred",economics,Pearson
+f506d671-4c84-41d4-8b56-1b685da82387,"Theory of Everything, The","Hawking, Stephen",science,Jaico
+b8d4910b-68b8-4cd5-a7d8-635f42f67802,To Sir With Love,Braithwaite,fiction,Penguin
+e081529a-3cd3-4a6c-87bf-6eaf6cfb0139,"Trial, The","Kafka, Frank",fiction,Random House
+ae6d62da-58d0-49a1-b7a2-2e2e61f7da56,Uncommon Wisdom,"Capra, Fritjof",nonfiction,Fontana
+69b55e88-cf0c-4ed8-9e19-5f6f5ac16a65,"Veteran, The","Forsyth, Frederick",fiction,Transworld
+a5be94b5-5375-428b-8d18-40a18513ee47,We the Living,"Rand, Ayn",fiction,Penguin
+1c7d71c1-825d-4d3d-a0a2-865fa5d1dbfc,"Wealth of Nations, The","Smith, Adam",economics,Random House
+dab8d8b7-7d53-47b1-ba94-27cfb9d33d8d,"Winter of Our Discontent, The","Steinbeck, John",fiction,Penguin
+ab1e4a64-5973-4d2e-8839-7278100a45bf,Zen & The Art of Motorcycle Maintenance,"Pirsig, Robert",philosophy,Vintage

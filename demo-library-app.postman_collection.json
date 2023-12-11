@@ -1,0 +1,139 @@
+{
+	"info": {
+		"_postman_id": "4153d9a7-e183-4540-9f02-2b5718c3e039",
+		"name": "demo-library-app",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "returns all users who have actually borrowed at least one book",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/MainService/user/borrower",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"MainService",
+						"user",
+						"borrower"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "returns all non-terminated users who have not currently borrowed anything",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/MainService/user/nonReader",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"MainService",
+						"user",
+						"nonReader"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "\"returns all users who have borrowed a book on a given date",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/MainService/user/usersWithBorrowDate?dateString=2008-05-14",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"MainService",
+						"user",
+						"usersWithBorrowDate"
+					],
+					"query": [
+						{
+							"key": "dateString",
+							"value": "2008-05-14"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "returns all books borrowed by a given user in a given date range",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"borrowedFrom\": \"2020-01-01\",\n  \"borrowedTo\": \"2022-01-01\",\n  \"userUUID\": \"d8bb6a3e-ef7f-4bfb-8e4b-9d292bbd7a87\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/MainService/book/getCustomBooks",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"MainService",
+						"book",
+						"getCustomBooks"
+					],
+					"query": [
+						{
+							"key": "dateString",
+							"value": "2008-05-14",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "e) returns all available (not borrowed) books",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/MainService/book/getAvailableBooks",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"MainService",
+						"book",
+						"getAvailableBooks"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
